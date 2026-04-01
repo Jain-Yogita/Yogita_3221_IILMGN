@@ -114,6 +114,11 @@ Titanic Dataset (Kaggle)
 
 ---
 
+📌 Why this project matters?
+This project demonstrates how statistical methods help in making data-driven decisions from samples, which is essential in real-world analytics.
+
+---
+
 ## 💡 Future Improvements
 
 * Apply advanced statistical tests
